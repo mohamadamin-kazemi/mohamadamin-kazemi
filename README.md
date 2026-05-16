@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hello, I'm Amin 👋
 
-<!--
-**mohamadamin-kazemi/mohamadamin-kazemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Developer specializing in backend architectures, machine learning, and data-driven applications. I am passionate about building intelligent systems, ranging from data analysis pipelines to advanced LLM-based agents.
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working on:** building scalable AI solutions and developing robust backend services.
+- 🌱 **I’m currently learning:** new techniques in Retrieval-Augmented Generation (RAG) and optimizing machine learning pipelines.
+- 👯 **I’m looking to collaborate on:** AI engineering projects, robust APIs, and open-source data tools.
+- 💬 **Ask me about:** Python, LLM integration, databases, and Object-Oriented architecture.
+- 📫 **How to reach me:** [Your Email or LinkedIn URL]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+**AI & Machine Learning**
+* Large Language Models (LLMs), RAG, LangChain, AI Agents
+* Machine Learning, Scikit-learn
+
+**Data Science & Analysis**
+* Python, Pandas, NumPy
+* Data Analysis
+
+**Backend & Databases**
+* FastAPI, Object-Oriented Programming (OOP)
+* PostgreSQL, Relational Databases (SQL)
+
+**DevOps & Workflow**
+* Docker, Git
