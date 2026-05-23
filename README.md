@@ -6,7 +6,7 @@ I am a Developer specializing in backend architectures, machine learning, and da
 - 🌱 **I’m currently learning:** new techniques in Retrieval-Augmented Generation (RAG) and optimizing machine learning pipelines.
 - 👯 **I’m looking to collaborate on:** AI engineering projects, robust APIs, and open-source data tools.
 - 💬 **Ask me about:** Python, LLM integration, databases, and Object-Oriented architecture.
-- 📫 **How to reach me:** [Your Email or LinkedIn URL]
+- 📫 **How to reach me:** mohamadaminkazemi1997@gmail.com
 
 ---
 
